@@ -1,0 +1,41 @@
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.exe
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.deps.json
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.runtimeconfig.json
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.dll
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.pdb
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер_MarkupCompile.cache
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер_MarkupCompile.lref
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.g.resources
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.dll
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\refint\Аудиоплеер.dll
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.pdb
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\ref\Аудиоплеер.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.exe
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.deps.json
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.runtimeconfig.json
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\bin\Debug\net6.0-windows\Аудиоплеер.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер_MarkupCompile.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер_MarkupCompile.lref
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.g.resources
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.AssemblyInfo.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\refint\Аудиоплеер.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\Аудиоплеер.genruntimeconfig.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Аудиоплеер\Аудиоплеер\obj\Debug\net6.0-windows\ref\Аудиоплеер.dll

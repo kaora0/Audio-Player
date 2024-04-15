@@ -1,0 +1,29 @@
+﻿<Window x:Class="Аудиоплеер.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Аудиоплеер"
+        mc:Ignorable="d"
+        Title="Аудиоплеер" MinHeight="200" MinWidth="480" MaxHeight="200" MaxWidth="480">
+    <Grid>
+        <Menu HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" Width="480" Padding="5"
+              Background="#ffdbde" Foreground="#fa8f89" FontWeight="Bold">
+            <MenuItem Header="Открыть" Click="Open_Click"></MenuItem>
+        </Menu>
+
+        <Button x:Name="BPlay" Content="Play" HorizontalAlignment="Left" Height="60" Margin="10,40,0,0" VerticalAlignment="Top" Width="60" 
+                Background="#fa8f89" Foreground="White" FontWeight="Bold" BorderBrush="White"
+                Click="BPlay_Click"/>
+        <Button x:Name="BStop" Content="Stop" HorizontalAlignment="Left" Height="60" Margin="80,40,0,0" VerticalAlignment="Top" Width="60"
+                Background="#fa8f89" Foreground="White" FontWeight="Bold" BorderBrush="White"
+                Click="BStop_Click"/>
+
+        <Label Content="Сейчас играет" HorizontalAlignment="Left" Height="36" Margin="10,110,0,0" VerticalAlignment="Top" Width="130"
+               Background="#ffdbde" Foreground="#fa8f89" FontWeight="Bold"/>
+
+        <TextBox x:Name="SongName" HorizontalAlignment="Left" Height="36" Margin="150,110,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="300"
+                 BorderBrush="#ffdbde"/>
+
+    </Grid>
+</Window>
